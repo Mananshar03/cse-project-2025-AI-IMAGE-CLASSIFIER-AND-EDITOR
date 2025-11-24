@@ -42,7 +42,7 @@ It is built to be simple, fast, and practical for testing, learning, or quickly 
 ## Steps to Install & Run
 Setting up and running this app is straightforward. Use your **Terminal (Mac/Linux)** or **Command Prompt/PowerShell (Windows)**:
 
-# 🖼️ AI Image Classifier
+# AI Image Classifier
 
 This project is a simple AI-powered image classifier built with **Streamlit** and **TensorFlow**. Setting up and running the app is straightforward — just follow the steps below.
 
@@ -58,26 +58,26 @@ pip install streamlit tensorflow pillow numpy
 
 # 2. Run the application
 to run the app you have to -streamlit run app.py- to the terminal.
-# 🧪 Instructions for Testing
+# Instructions for Testing
 
 Follow these steps to test the AI Image Classifier and Editor:
 
-1. **Open the App**  
+1. Open the App  
    Launch the application in your web browser.
 
-2. **Upload an Image**  
+2. Upload an Image  
    Add any image file (JPG, JPEG, or PNG) to the app.
 
-3. **View Predictions & Insights**  
+3. View Predictions & Insights  
    Check the AI-generated predictions along with initial image insights such as dominant color, brightness, contrast, and sharpness.
 
-4. **Try Editing Tools**  
+4. Try Editing Tools
    Experiment with the built-in tools:  
-   - **Resizer** – adjust image dimensions  
-   - **Compression** – reduce file size  
-   - **Rotator** – spin the image to correct orientation  
-   - **Flipper** – flip horizontally or vertically  
+   - Resizer – adjust image dimensions  
+   - Compression – reduce file size  
+   - Rotator – spin the image to correct orientation  
+   - Flipper – flip horizontally or vertically  
 
-5. **Download Processed File**  
-   Once satisfied with the changes, use the **Download** buttons to save your optimized image.
+5. Download Processed File 
+   Once satisfied with the changes, use the Download buttons to save your optimized image.
 
