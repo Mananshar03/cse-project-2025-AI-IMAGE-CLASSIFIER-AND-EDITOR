@@ -42,7 +42,20 @@ It is built to be simple, fast, and practical for testing, learning, or quickly 
 ## Steps to Install & Run
 Setting up and running this app is straightforward. Use your **Terminal (Mac/Linux)** or **Command Prompt/PowerShell (Windows)**:
 
-1. **Install Libraries**  
-   ```bash
-   pip install streamlit tensorflow pillow numpy
+# 🖼️ AI Image Classifier
+
+This project is a simple AI-powered image classifier built with **Streamlit** and **TensorFlow**. Setting up and running the app is straightforward — just follow the steps below.
+
+---
+
+## 🚀 Setup & Usage
+
+Open your **Terminal (Mac/Linux)** or **Command Prompt/PowerShell (Windows)** and run the following commands:
+
+```bash
+# 1. Install required libraries
+pip install streamlit tensorflow pillow numpy
+
+# 2. Run the application
+streamlit run app.py
 
