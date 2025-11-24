@@ -18,7 +18,7 @@ It is built to be simple, fast, and practical for testing, learning, or quickly 
 ---
 
 ## Features
-- **Easy Image Upload** – Quickly add JPG, JPEG, or PNG files.  
+- Easy Image Upload – Quickly add JPG, JPEG, or PNG files.  
 - **Fast AI Predictions** – Get instant classified results with clear confidence levels.  
 - **Detailed Image Insights** – Analyze dominant color, brightness, contrast, and sharpness.  
 - **Image Resizer** – Resize images using simple sliders.  
